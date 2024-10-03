@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Kristian Øllegaard, Python Developer and founder of [Fenerum](https://www.fenerum.com) and [Plecto](https://www.plecto.com).
+
+I'm particularly interested in Django which I have been using for everything since I got to know it around 2005/v0.95.
+
+You can read more about what I'm up to on my [personal website](https://www.kristian.io)
+
+
 <!--
 **KristianOellegaard/KristianOellegaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
